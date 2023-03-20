@@ -19,13 +19,14 @@ php artisan serve
 <br> 
 Fontend: VueJS(PrimeVue + TypeScript + Pinia)
 <br>
+
 ## Project Setup
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run frontEnd server for Development
 
 ```sh
 npm run dev
