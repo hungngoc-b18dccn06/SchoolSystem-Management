@@ -11,7 +11,7 @@ composer install
 php artisan migrate:refresh --seed
 ```
 
-### Compile and Hot-Reload for Development
+### Run backend Server
 
 ```sh
 php artisan serve
